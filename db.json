@@ -1,0 +1,28 @@
+{
+    "devs" : [
+        {
+            "id"        : 1,
+            "name"      : "Pk",
+            "age"       : 12,
+            "skill"     : "Laravel developer",
+            "location"  : "Mirpur",
+            "photo"     : "https://i.pinimg.com/originals/58/d9/c8/58d9c85c9a815e9fab9f2616476a0fe8.jpg"
+        },
+        {
+            "id"        : 2,
+            "name"      : "Minguk",
+            "age"       : 10,
+            "skill"     : "WP developer",
+            "location"  : "Uttara",
+            "photo"     : "https://pbs.twimg.com/profile_images/593865905173434369/pQ1eEMfi_400x400.jpg"
+        },
+        {
+            "id"        : 3,
+            "name"      : "Manse",
+            "age"       : 19,
+            "skill"     : "IOS developer",
+            "location"  : "Uttara",
+            "photo"     : "https://pbs.twimg.com/media/CYmgy6gUQAAMkg7.jpg"
+        }
+    ]
+}
